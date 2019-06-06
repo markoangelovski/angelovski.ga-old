@@ -1,0 +1,16 @@
+{
+  "name": "angelovski.ga",
+  "version": "1.0.0",
+  "description": "Repo for Angelovski.ga website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d live_site"
+  },
+  "keywords": [],
+  "author": "Marko Angelovski",
+  "license": "ISC",
+  "homepage": "https://markoangelovski.github.io/angelovski.ga",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
